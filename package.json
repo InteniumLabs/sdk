@@ -1,0 +1,13 @@
+{
+  "name": "intenium",
+  "version": "1.0.0",
+  "description": "Intenium value equilibrium protocol",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
