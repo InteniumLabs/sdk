@@ -4,7 +4,7 @@
 
 Intenium is a next-generation Web3 protocol built around the principle of **value equilibrium**. Every gain in the system requires an equal cost, ensuring balance, transparency, and sustainability within the ecosystem.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : HA4SGoYVWpHr4y5BiPfgWNWCLdJc5oGsiEAq6wGMpump
 ---
 
 ## Overview
